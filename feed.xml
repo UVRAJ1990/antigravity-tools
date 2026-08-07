@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antigravity Tools — 52 Free Browser Dev Tools</title>
+    <link>https://antigravitytools.app/</link>
+    <description>52 free browser-based developer tools. Zero installs, 100% client-side privacy.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Aug 2026 09:32:01 +0000</lastBuildDate>
+    <atom:link href="https://antigravitytools.app/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[Mobile Speaker Water & Dust Cleaner]]></title>
+      <link>https://antigravitytools.app/tools/mobile-speaker-cleaner.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/mobile-speaker-cleaner.html</guid>
+      <description><![CDATA[Play 165 Hz sound-wave pulses directly in your browser to push water droplets and dust out of your phone speaker — free, instant, no app needed.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>mobile</category>
+    </item>
+    <item>
+      <title><![CDATA[Stolen Mobile Emergency Assistant & CEIR Guide]]></title>
+      <link>https://antigravitytools.app/tools/mobile-stolen-assistant.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/mobile-stolen-assistant.html</guid>
+      <description><![CDATA[Step-by-step wizard for lost or stolen phones: remotely lock your device, block the IMEI via CEIR, suspend your SIM with your carrier, and generate an e-FIR report.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>mobile</category>
+    </item>
+    <item>
+      <title><![CDATA[IMEI Luhn Validator & TAC Decoder]]></title>
+      <link>https://antigravitytools.app/tools/mobile-imei-validator.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/mobile-imei-validator.html</guid>
+      <description><![CDATA[Instantly verify any 15-digit IMEI number using the Luhn checksum algorithm, decode the TAC manufacturer code, and extract the device serial number — 100% client-side.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>mobile</category>
+    </item>
+    <item>
+      <title><![CDATA[Emergency Lock Screen Wallpaper Generator]]></title>
+      <link>https://antigravitytools.app/tools/mobile-emergency-wallpaper.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/mobile-emergency-wallpaper.html</guid>
+      <description><![CDATA[Create a custom mobile lock screen wallpaper with your emergency contact numbers, blood group, medical conditions, and allergies — generated entirely in your browser.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>mobile</category>
+    </item>
+    <item>
+      <title><![CDATA[Mobile Display & Dead Pixel Tester]]></title>
+      <link>https://antigravitytools.app/tools/mobile-screen-tester.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/mobile-screen-tester.html</guid>
+      <description><![CDATA[Run a full-screen RGBW and black color cycle test to detect dead pixels, stuck pixels, and OLED burn-in on your phone, tablet, or laptop — free, instant, browser-based.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>mobile</category>
+    </item>
+    <item>
+      <title><![CDATA[Multi-Touch & Screen Refresh Rate (Hz) Tester]]></title>
+      <link>https://antigravitytools.app/tools/mobile-touch-hz-tester.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/mobile-touch-hz-tester.html</guid>
+      <description><![CDATA[Measure your phone or laptop screen's real refresh rate (60Hz, 90Hz, 120Hz, 144Hz) and test simultaneous multi-touch points — all live in your browser, no app required.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>mobile</category>
+    </item>
+    <item>
+      <title><![CDATA[Mobile Wi-Fi, eSIM & WhatsApp QR Suite]]></title>
+      <link>https://antigravitytools.app/tools/mobile-qr-suite.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/mobile-qr-suite.html</guid>
+      <description><![CDATA[Generate Wi-Fi auto-connect QR codes, WhatsApp chat links, eSIM QR, and vCard contact QR codes — all in your browser, no app, no signup.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>mobile</category>
+    </item>
+    <item>
+      <title><![CDATA[YouTube HD & 4K Thumbnail Downloader]]></title>
+      <link>https://antigravitytools.app/tools/yt-thumbnail-downloader.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/yt-thumbnail-downloader.html</guid>
+      <description><![CDATA[Download any YouTube video thumbnail in 4K, 1080p, 720p, or SD quality by pasting the video URL — instant, free, no login required.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>youtube</category>
+    </item>
+    <item>
+      <title><![CDATA[YouTube Timestamp & Chapter Generator]]></title>
+      <link>https://antigravitytools.app/tools/yt-timestamp-generator.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/yt-timestamp-generator.html</guid>
+      <description><![CDATA[Build shareable YouTube timestamp links and format clickable chapter descriptions in seconds — just enter the times and titles, copy the output.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>youtube</category>
+    </item>
+    <item>
+      <title><![CDATA[YouTube Transcript & Subtitle Cleaner]]></title>
+      <link>https://antigravitytools.app/tools/yt-transcript-extractor.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/yt-transcript-extractor.html</guid>
+      <description><![CDATA[Paste raw YouTube auto-generated captions and instantly strip all timestamps, speaker labels, and formatting — ready to paste into ChatGPT, Claude, or Gemini for AI summaries.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>youtube</category>
+    </item>
+    <item>
+      <title><![CDATA[YouTube Video Tag & Keyword Inspector]]></title>
+      <link>https://antigravitytools.app/tools/yt-tag-extractor.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/yt-tag-extractor.html</guid>
+      <description><![CDATA[Reveal the hidden tags, SEO keywords, title, description, and channel metadata of any YouTube video — essential for YouTube SEO research and competitor analysis.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>youtube</category>
+    </item>
+    <item>
+      <title><![CDATA[YouTube Channel Banner Safe Zone Visualizer]]></title>
+      <link>https://antigravitytools.app/tools/yt-banner-safezone.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/yt-banner-safezone.html</guid>
+      <description><![CDATA[Visualize the exact YouTube channel banner safe zone overlay for TV, desktop, tablet, and mobile — upload your design and see what gets cropped before you publish.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>youtube</category>
+    </item>
+    <item>
+      <title><![CDATA[Clean YouTube Responsive Iframe Generator]]></title>
+      <link>https://antigravitytools.app/tools/yt-embed-generator.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/yt-embed-generator.html</guid>
+      <description><![CDATA[Generate clean, responsive YouTube iframe embed code with custom start time, autoplay, loop, controls, and privacy-enhanced mode — copy and paste into any website.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>youtube</category>
+    </item>
+    <item>
+      <title><![CDATA[AI Token & Cost Estimator]]></title>
+      <link>https://antigravitytools.app/tools/ai-token-counter.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/ai-token-counter.html</guid>
+      <description><![CDATA[Count tokens and estimate API cost across GPT-4o, Claude 3.5, Gemini 2.0, DeepSeek R1, and Llama 3 — paste your prompt and get instant results, 100% client-side.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[System Prompt & Agent Skill Builder]]></title>
+      <link>https://antigravitytools.app/tools/ai-prompt-builder.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/ai-prompt-builder.html</guid>
+      <description><![CDATA[Structure professional AI system prompts with custom instructions, tool definitions, XML tags, role definitions, constraints, and output formats for ChatGPT, Claude, and Gemini agents.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[LLM JSON Schema Builder]]></title>
+      <link>https://antigravitytools.app/tools/json-schema-gen.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/json-schema-gen.html</guid>
+      <description><![CDATA[Paste any JSON sample and instantly generate a valid JSON Schema definition for OpenAI function calling, Gemini structured outputs, and Pydantic models.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[AI Text Humanizer & Paraphraser]]></title>
+      <link>https://antigravitytools.app/tools/ai-text-humanizer.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/ai-text-humanizer.html</guid>
+      <description><![CDATA[Rephrase robotic AI-generated text into natural, fluent human writing with custom tone options — friendly, professional, casual, or academic. Bypass AI detectors.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[AI Prompt Cost Trimmer]]></title>
+      <link>https://antigravitytools.app/tools/ai-prompt-trimmer.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/ai-prompt-trimmer.html</guid>
+      <description><![CDATA[Compress long LLM prompts by 30–50% by removing stop words, redundant phrases, and filler — preserving core context while slashing your OpenAI or Claude API bill.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[AI Code Bug & Security Scanner]]></title>
+      <link>https://antigravitytools.app/tools/ai-code-scanner.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/ai-code-scanner.html</guid>
+      <description><![CDATA[Paste any code snippet and get an instant analysis of performance bottlenecks, security vulnerabilities (XSS, SQL injection, hardcoded secrets), and edge-case bugs — free, no signup.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[AI Speech & Audio Transcriber]]></title>
+      <link>https://antigravitytools.app/tools/ai-audio-transcribe.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/ai-audio-transcribe.html</guid>
+      <description><![CDATA[Transcribe speech and audio recordings into clean text using your browser's built-in Speech Recognition API — no upload, no API key, works directly in Chrome, Edge, and Safari.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[AI Background Remover]]></title>
+      <link>https://antigravitytools.app/tools/ai-bg-remover.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/ai-bg-remover.html</guid>
+      <description><![CDATA[Remove the background from any photo or product image directly in your browser using canvas color detection — no signup, no upload, 100% private.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[Website Trust Badge Builder]]></title>
+      <link>https://antigravitytools.app/tools/site-trust-badge.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/site-trust-badge.html</guid>
+      <description><![CDATA[Design and export custom embeddable SVG or HTML trust verification badges for your SaaS, e-commerce site, or landing page — free, no watermark, instant download.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>trust</category>
+    </item>
+    <item>
+      <title><![CDATA[Social Open Graph (OG) Previewer]]></title>
+      <link>https://antigravitytools.app/tools/og-card-previewer.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/og-card-previewer.html</guid>
+      <description><![CDATA[Preview exactly how your website's Open Graph meta tags will render as link cards on Twitter/X, LinkedIn, Facebook, WhatsApp, Discord, and Telegram before publishing.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>trust</category>
+    </item>
+    <item>
+      <title><![CDATA[Meta Tag & SEO Head Builder]]></title>
+      <link>https://antigravitytools.app/tools/meta-tag-generator.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/meta-tag-generator.html</guid>
+      <description><![CDATA[Generate a complete, SEO-optimized HTML <head> section with title, meta description, canonical, Open Graph, Twitter Cards, robots, and viewport tags — copy and paste ready.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>trust</category>
+    </item>
+    <item>
+      <title><![CDATA[Favicon & App Icon Generator]]></title>
+      <link>https://antigravitytools.app/tools/favicon-generator.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/favicon-generator.html</guid>
+      <description><![CDATA[Upload any image or type any emoji to instantly generate favicons in all required sizes (16×16, 32×32, 180×180, 192×192, 512×512) with the correct HTML head snippet.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>trust</category>
+    </item>
+    <item>
+      <title><![CDATA[Schema.org Rich Snippet Builder]]></title>
+      <link>https://antigravitytools.app/tools/schema-generator.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/schema-generator.html</guid>
+      <description><![CDATA[Build valid Schema.org JSON-LD structured data for FAQPage, Product, Article, Organization, BreadcrumbList, and LocalBusiness — copy and add to your site for Google Rich Snippets.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>trust</category>
+    </item>
+    <item>
+      <title><![CDATA[Core Web Vitals Audit Simulator]]></title>
+      <link>https://antigravitytools.app/tools/core-web-vitals.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/core-web-vitals.html</guid>
+      <description><![CDATA[Simulate and understand your Core Web Vitals scores — Largest Contentful Paint (LCP), Cumulative Layout Shift (CLS), and First Input Delay (FID) — with optimization tips.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>trust</category>
+    </item>
+    <item>
+      <title><![CDATA[Visual XML Sitemap & Robots Builder]]></title>
+      <link>https://antigravitytools.app/tools/sitemap-generator.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/sitemap-generator.html</guid>
+      <description><![CDATA[Generate a valid XML sitemap and robots.txt file for any website by entering your URLs — with changefreq, priority, and lastmod settings. Download and submit to Google Search Console.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>trust</category>
+    </item>
+    <item>
+      <title><![CDATA[GDPR Privacy Policy Generator]]></title>
+      <link>https://antigravitytools.app/tools/privacy-policy-gen.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/privacy-policy-gen.html</guid>
+      <description><![CDATA[Generate a complete, customized GDPR and CCPA compliant privacy policy document for your website or app in minutes — just fill in your details and copy the HTML.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>trust</category>
+    </item>
+    <item>
+      <title><![CDATA[Redirect & HTTP Status Tester]]></title>
+      <link>https://antigravitytools.app/tools/link-redirect-checker.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/link-redirect-checker.html</guid>
+      <description><![CDATA[Test any URL's HTTP status code, follow redirect chains (301, 302, 307, 308), and verify your HTTPS/www redirects are working correctly — free, instant, no signup.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>trust</category>
+    </item>
+    <item>
+      <title><![CDATA[JSON Workbench & Type Converter]]></title>
+      <link>https://antigravitytools.app/tools/json-workbench.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/json-workbench.html</guid>
+      <description><![CDATA[Beautify, minify, and validate JSON in your browser. Convert JSON to TypeScript interfaces, Python dataclasses, Go structs, and SQL table schemas — instantly, no server.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>dev</category>
+    </item>
+    <item>
+      <title><![CDATA[cURL to Code Converter]]></title>
+      <link>https://antigravitytools.app/tools/curl-converter.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/curl-converter.html</guid>
+      <description><![CDATA[Paste any cURL terminal command and instantly convert it to JavaScript fetch(), Python requests, Go http, or PHP cURL code — ready to paste into your project.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>dev</category>
+    </item>
+    <item>
+      <title><![CDATA[SVG Optimizer & React Builder]]></title>
+      <link>https://antigravitytools.app/tools/svg-optimizer.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/svg-optimizer.html</guid>
+      <description><![CDATA[Paste SVG code to remove redundant attributes, clean metadata, optimize paths, and convert to a React JSX component with proper props — all in the browser.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>dev</category>
+    </item>
+    <item>
+      <title><![CDATA[SQL Formatter & Query Beautifier]]></title>
+      <link>https://antigravitytools.app/tools/sql-formatter.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/sql-formatter.html</guid>
+      <description><![CDATA[Paste messy SQL queries and format them into clean, readable code with proper indentation, keyword capitalization, and dialect support for MySQL, PostgreSQL, and SQLite.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>dev</category>
+    </item>
+    <item>
+      <title><![CDATA[Regex Tester & Visualizer]]></title>
+      <link>https://antigravitytools.app/tools/regex-tester.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/regex-tester.html</guid>
+      <description><![CDATA[Test regular expressions with real-time match highlighting, group capture display, substitution preview, and common regex pattern library — free, instant, browser-based.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>dev</category>
+    </item>
+    <item>
+      <title><![CDATA[Cron Schedule Builder & Explainer]]></title>
+      <link>https://antigravitytools.app/tools/cron-generator.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/cron-generator.html</guid>
+      <description><![CDATA[Build cron job expressions visually with sliders and dropdowns, get a human-readable description of any cron expression, and see the next 5 scheduled run times.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>dev</category>
+    </item>
+    <item>
+      <title><![CDATA[Git CLI Command Helper]]></title>
+      <link>https://antigravitytools.app/tools/git-helper.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/git-helper.html</guid>
+      <description><![CDATA[Construct complex Git commands visually — undo commits, squash, cherry-pick, rebase, stash, and more — with explanations of what each command does before you run it.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>dev</category>
+    </item>
+    <item>
+      <title><![CDATA[JWT Inspector & Payload Debugger]]></title>
+      <link>https://antigravitytools.app/tools/jwt-inspector.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/jwt-inspector.html</guid>
+      <description><![CDATA[Paste any JSON Web Token to instantly decode its header, payload claims, and check expiration time — 100% client-side, your token is never sent to any server.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>security</category>
+    </item>
+    <item>
+      <title><![CDATA[Universal Encoder / Decoder]]></title>
+      <link>https://antigravitytools.app/tools/universal-encoder.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/universal-encoder.html</guid>
+      <description><![CDATA[Encode and decode text in Base64, URL encoding, HTML entities, Hex, Binary, and Unicode — all in one multi-tab tool, 100% client-side.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>security</category>
+    </item>
+    <item>
+      <title><![CDATA[Hash & Password Generator]]></title>
+      <link>https://antigravitytools.app/tools/hash-password-gen.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/hash-password-gen.html</guid>
+      <description><![CDATA[Generate SHA-256 and SHA-512 cryptographic hashes using the browser Web Crypto API, and create strong random passwords with custom length and character rules — 100% client-side.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>security</category>
+    </item>
+    <item>
+      <title><![CDATA[UUID & ULID Generator]]></title>
+      <link>https://antigravitytools.app/tools/uuid-ulid-gen.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/uuid-ulid-gen.html</guid>
+      <description><![CDATA[Generate cryptographically secure UUID v4 and ULID (Universally Unique Lexicographically Sortable Identifier) identifiers in bulk — copy as JSON array, CSV, or plain list.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>security</category>
+    </item>
+    <item>
+      <title><![CDATA[Subnet & IP CIDR Calculator]]></title>
+      <link>https://antigravitytools.app/tools/subnet-calculator.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/subnet-calculator.html</guid>
+      <description><![CDATA[Calculate IPv4 subnet masks, network addresses, usable IP ranges, broadcast addresses, and number of hosts for any CIDR notation — free, instant, browser-based.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>security</category>
+    </item>
+    <item>
+      <title><![CDATA[CORS & Security Header Inspector]]></title>
+      <link>https://antigravitytools.app/tools/cors-header-inspector.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/cors-header-inspector.html</guid>
+      <description><![CDATA[Analyze CORS policies and HTTP security headers (CSP, HSTS, X-Frame-Options, etc.) for any URL — identify misconfigurations, missing headers, and security risks.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>security</category>
+    </item>
+    <item>
+      <title><![CDATA[Data PII Redactor & Masker]]></title>
+      <link>https://antigravitytools.app/tools/pii-masker.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/pii-masker.html</guid>
+      <description><![CDATA[Automatically detect and mask Personally Identifiable Information (emails, phone numbers, credit cards, SSNs, IP addresses) from any text — 100% client-side, data stays private.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>security</category>
+    </item>
+    <item>
+      <title><![CDATA[RSA & ECC Cryptographic Key Generator]]></title>
+      <link>https://antigravitytools.app/tools/rsa-ecc-key-gen.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/rsa-ecc-key-gen.html</guid>
+      <description><![CDATA[Generate RSA 2048/4096-bit and ECC P-256/P-384 public/private PEM key pairs directly in your browser using the Web Crypto API — no server, keys never leave your device.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>security</category>
+    </item>
+    <item>
+      <title><![CDATA[Markdown Live Editor & Preview]]></title>
+      <link>https://antigravitytools.app/tools/markdown-editor.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/markdown-editor.html</guid>
+      <description><![CDATA[Write Markdown with a real-time side-by-side HTML preview. Supports GitHub Flavored Markdown (GFM), tables, code blocks, and task lists — export as HTML or copy rendered output.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>media</category>
+    </item>
+    <item>
+      <title><![CDATA[Diff Checker & Code Comparison]]></title>
+      <link>https://antigravitytools.app/tools/diff-checker.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/diff-checker.html</guid>
+      <description><![CDATA[Compare two blocks of text or code side-by-side with visual line-by-line diff highlighting — additions in green, deletions in red. Free, instant, browser-based.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>media</category>
+    </item>
+    <item>
+      <title><![CDATA[Text Case & Slug Converter]]></title>
+      <link>https://antigravitytools.app/tools/text-converter.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/text-converter.html</guid>
+      <description><![CDATA[Convert text between camelCase, kebab-case, snake_case, PascalCase, UPPER_CASE, Title Case, and URL slugs — instantly, with one click per conversion.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>media</category>
+    </item>
+    <item>
+      <title><![CDATA[WebP Image Converter & Compressor]]></title>
+      <link>https://antigravitytools.app/tools/image-compressor.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/image-compressor.html</guid>
+      <description><![CDATA[Compress and convert PNG and JPG images to WebP format locally in your browser — reduce file size by up to 80% without uploading to any server.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>media</category>
+    </item>
+    <item>
+      <title><![CDATA[PDF Merger & Splitter Studio]]></title>
+      <link>https://antigravitytools.app/tools/pdf-merger-splitter.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/pdf-merger-splitter.html</guid>
+      <description><![CDATA[Merge multiple PDF files or extract specific pages from a PDF directly in your browser — no upload, no server, no registration. Private and instant.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>media</category>
+    </item>
+    <item>
+      <title><![CDATA[Audio Trimmer & Volume Booster]]></title>
+      <link>https://antigravitytools.app/tools/audio-trimmer.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/audio-trimmer.html</guid>
+      <description><![CDATA[Trim audio recordings, boost volume, and export as MP3 or WAV directly in your browser — no upload, no server, works on MP3, WAV, M4A, and OGG files.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>media</category>
+    </item>
+    <item>
+      <title><![CDATA[Video to GIF Converter & Frame Extractor]]></title>
+      <link>https://antigravitytools.app/tools/video-gif-converter.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/video-gif-converter.html</guid>
+      <description><![CDATA[Convert MP4 and WebM video clips to animated GIF or extract individual frames directly in your browser — no upload, no watermark, free and instant.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>media</category>
+    </item>
+    <item>
+      <title><![CDATA[CSS Glassmorphism & Shadow Studio]]></title>
+      <link>https://antigravitytools.app/tools/glassmorphism-studio.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/glassmorphism-studio.html</guid>
+      <description><![CDATA[Design stunning glassmorphism CSS effects with visual sliders for backdrop blur, transparency, border, and neon glow — copy the CSS instantly. Free, browser-based.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>design</category>
+    </item>
+    <item>
+      <title><![CDATA[CSS Flexbox & Grid Builder]]></title>
+      <link>https://antigravitytools.app/tools/flexbox-builder.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/flexbox-builder.html</guid>
+      <description><![CDATA[Build and visualize CSS Flexbox layouts interactively — change justify-content, align-items, flex-direction, gap, and wrap settings with live preview and instant CSS output.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>design</category>
+    </item>
+    <item>
+      <title><![CDATA[WCAG Color Contrast Checker]]></title>
+      <link>https://antigravitytools.app/tools/contrast-checker.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/contrast-checker.html</guid>
+      <description><![CDATA[Check text and background color combinations against WCAG 2.1 AA and AAA accessibility standards — get the contrast ratio, pass/fail result, and suggested fixes instantly.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>design</category>
+    </item>
+    <item>
+      <title><![CDATA[Brand Palette Extractor from Image]]></title>
+      <link>https://antigravitytools.app/tools/brand-palette-extractor.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/brand-palette-extractor.html</guid>
+      <description><![CDATA[Upload any logo, photo, or screenshot to automatically extract a 5-color aesthetic brand palette with hex codes — great for brand guidelines, UI design, and presentations.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>design</category>
+    </item>
+    <item>
+      <title><![CDATA[CSS Keyframe Motion Animator]]></title>
+      <link>https://antigravitytools.app/tools/css-animator.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/css-animator.html</guid>
+      <description><![CDATA[Build custom CSS @keyframes animations with a visual builder — set motion, easing, duration, and delay with live preview. Copy production-ready CSS instantly.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>design</category>
+    </item>
+    <item>
+      <title><![CDATA[Tailwind CSS to Pure CSS Converter]]></title>
+      <link>https://antigravitytools.app/tools/tailwind-converter.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/tailwind-converter.html</guid>
+      <description><![CDATA[Paste Tailwind CSS utility classes and instantly convert them to equivalent pure CSS declarations — perfect for migrating away from Tailwind or understanding what each class does.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>design</category>
+    </item>
+    <item>
+      <title><![CDATA[Social Banner & Thumbnail Resizer]]></title>
+      <link>https://antigravitytools.app/tools/social-banner-resizer.html</link>
+      <guid isPermaLink="true">https://antigravitytools.app/tools/social-banner-resizer.html</guid>
+      <description><![CDATA[Resize and crop images to the exact pixel dimensions required for Twitter/X headers, YouTube thumbnails, LinkedIn banners, Instagram posts, and Facebook covers — free, instant.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:32:01 +0000</pubDate>
+      <category>design</category>
+    </item>
+  </channel>
+</rss>

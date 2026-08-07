@@ -1,0 +1,46 @@
+{
+  "name": "Antigravity Tools",
+  "short_name": "AG Tools",
+  "description": "52 free browser-based dev tools. Zero installs. 100% private.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d1a",
+  "theme_color": "#0d0d1a",
+  "orientation": "any",
+  "categories": ["developer", "utilities", "productivity"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚀</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "JWT Inspector",
+      "short_name": "JWT",
+      "description": "Decode JWT tokens client-side",
+      "url": "/#jwt-inspector"
+    },
+    {
+      "name": "JSON Formatter",
+      "short_name": "JSON",
+      "description": "Beautify and validate JSON",
+      "url": "/#json-workbench"
+    },
+    {
+      "name": "Image Compressor",
+      "short_name": "Compress",
+      "description": "Convert images to WebP",
+      "url": "/#image-compressor"
+    },
+    {
+      "name": "Regex Tester",
+      "short_name": "Regex",
+      "description": "Test regex patterns live",
+      "url": "/#regex-tester"
+    }
+  ]
+}

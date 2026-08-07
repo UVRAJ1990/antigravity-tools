@@ -1,0 +1,63 @@
+{
+  "submitted": {
+    "https://antigravitytools.app/": {
+      "submitted_at": "2026-08-07 07:20:24 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#mobile-speaker-cleaner": {
+      "submitted_at": "2026-08-07 07:20:26 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#mobile-stolen-assistant": {
+      "submitted_at": "2026-08-07 07:20:28 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#mobile-imei-validator": {
+      "submitted_at": "2026-08-07 07:20:30 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#mobile-emergency-wallpaper": {
+      "submitted_at": "2026-08-07 07:20:32 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#mobile-screen-tester": {
+      "submitted_at": "2026-08-07 07:20:35 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#mobile-touch-hz-tester": {
+      "submitted_at": "2026-08-07 07:20:39 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#mobile-qr-suite": {
+      "submitted_at": "2026-08-07 07:20:41 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#yt-thumbnail-downloader": {
+      "submitted_at": "2026-08-07 07:20:43 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#yt-timestamp-generator": {
+      "submitted_at": "2026-08-07 07:20:45 UTC",
+      "last_status": "ok"
+    }
+  },
+  "runs": [
+    {
+      "run_at": "2026-08-07 07:20:18 UTC",
+      "submitted": 10,
+      "errors": 0,
+      "urls": [
+        "https://antigravitytools.app/",
+        "https://antigravitytools.app/#mobile-speaker-cleaner",
+        "https://antigravitytools.app/#mobile-stolen-assistant",
+        "https://antigravitytools.app/#mobile-imei-validator",
+        "https://antigravitytools.app/#mobile-emergency-wallpaper",
+        "https://antigravitytools.app/#mobile-screen-tester",
+        "https://antigravitytools.app/#mobile-touch-hz-tester",
+        "https://antigravitytools.app/#mobile-qr-suite",
+        "https://antigravitytools.app/#yt-thumbnail-downloader",
+        "https://antigravitytools.app/#yt-timestamp-generator"
+      ]
+    }
+  ]
+}

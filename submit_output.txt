@@ -1,0 +1,76 @@
+=================================================================
+  Antigravity Tools — URL Submission Run
+  2026-08-07 07:17:44 UTC
+=================================================================
+
+Authenticating...
+Token OK
+
+Total URLs in sitemap : 119
+Already submitted     : 0
+Pending (never sent)  : 119
+This batch            : 10 URLs
+
+-----------------------------------------------------------------
+  [01] ERROR 403  https://antigravitytools.app/
+         {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to ver
+  [02] ERROR 403  https://antigravitytools.app/#mobile-speaker-cleaner
+         {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to ver
+  [03] ERROR 403  https://antigravitytools.app/#mobile-stolen-assistant
+         {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to ver
+  [04] ERROR 403  https://antigravitytools.app/#mobile-imei-validator
+         {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to ver
+  [05] ERROR 403  https://antigravitytools.app/#mobile-emergency-wallpaper
+         {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to ver
+  [06] ERROR 403  https://antigravitytools.app/#mobile-screen-tester
+         {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to ver
+  [07] ERROR 403  https://antigravitytools.app/#mobile-touch-hz-tester
+         {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to ver
+  [08] ERROR 403  https://antigravitytools.app/#mobile-qr-suite
+         {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to ver
+  [09] ERROR 403  https://antigravitytools.app/#yt-thumbnail-downloader
+         {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to ver
+  [10] ERROR 403  https://antigravitytools.app/#yt-timestamp-generator
+         {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to ver
+
+=================================================================
+  SUMMARY
+=================================================================
+  Submitted OK   : 0
+  Errors         : 10
+  Remaining      : 119
+  Total in log   : 10
+  Est. days left : ~11 day(s) to submit all
+
+  Log saved to   : submission_log.json
+=================================================================

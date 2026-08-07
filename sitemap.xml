@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- MAIN HOMEPAGE & RSS -->
+  <url>
+    <loc>https://antigravitytools.app/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://antigravitytools.app/feed.xml</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- MOBILE & DEVICE TOOLS -->
+  <url><loc>https://antigravitytools.app/#mobile-speaker-cleaner</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#mobile-stolen-assistant</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#mobile-imei-validator</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#mobile-emergency-wallpaper</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#mobile-screen-tester</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#mobile-touch-hz-tester</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#mobile-qr-suite</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- YOUTUBE & VIDEO TOOLS -->
+  <url><loc>https://antigravitytools.app/#yt-thumbnail-downloader</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#yt-timestamp-generator</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#yt-transcript-extractor</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#yt-tag-extractor</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#yt-banner-safezone</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#yt-embed-generator</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- AI & PROMPTING TOOLS -->
+  <url><loc>https://antigravitytools.app/#ai-token-counter</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#ai-prompt-builder</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#json-schema-gen</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#ai-text-humanizer</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#ai-prompt-trimmer</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#ai-code-scanner</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#ai-audio-transcribe</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#ai-bg-remover</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- SITE TRUST & SEO TOOLS -->
+  <url><loc>https://antigravitytools.app/#site-trust-badge</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#og-card-previewer</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#meta-tag-generator</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#favicon-generator</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#schema-generator</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#core-web-vitals</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#sitemap-generator</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#privacy-policy-gen</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#link-redirect-checker</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- DEV & CODE TOOLS -->
+  <url><loc>https://antigravitytools.app/#json-workbench</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#curl-converter</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#svg-optimizer</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#sql-formatter</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#regex-tester</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#cron-generator</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#git-helper</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- SECURITY & AUTH TOOLS -->
+  <url><loc>https://antigravitytools.app/#jwt-inspector</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#universal-encoder</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#hash-password-gen</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#uuid-ulid-gen</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#subnet-calculator</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#cors-header-inspector</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#pii-masker</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#rsa-ecc-key-gen</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- TEXT & MEDIA TOOLS -->
+  <url><loc>https://antigravitytools.app/#markdown-editor</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#diff-checker</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#text-converter</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#image-compressor</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#pdf-merger-splitter</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#audio-trimmer</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#video-gif-converter</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- CSS & DESIGN TOOLS -->
+  <url><loc>https://antigravitytools.app/#glassmorphism-studio</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#flexbox-builder</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#contrast-checker</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#brand-palette-extractor</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#css-animator</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://antigravitytools.app/#tailwind-converter</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/#social-banner-resizer</loc><lastmod>2026-08-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- TOOL PAGES -->
+  <url><loc>https://antigravitytools.app/tools/mobile-speaker-cleaner.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/mobile-stolen-assistant.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/mobile-imei-validator.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/mobile-emergency-wallpaper.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/mobile-screen-tester.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/mobile-touch-hz-tester.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/mobile-qr-suite.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/yt-thumbnail-downloader.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/yt-timestamp-generator.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/yt-transcript-extractor.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/yt-tag-extractor.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/yt-banner-safezone.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/yt-embed-generator.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/ai-token-counter.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/ai-prompt-builder.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/json-schema-gen.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/ai-text-humanizer.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/ai-prompt-trimmer.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/ai-code-scanner.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/ai-audio-transcribe.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/ai-bg-remover.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/site-trust-badge.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/og-card-previewer.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/meta-tag-generator.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/favicon-generator.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/schema-generator.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/core-web-vitals.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/sitemap-generator.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/privacy-policy-gen.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/link-redirect-checker.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/json-workbench.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/curl-converter.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/svg-optimizer.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/sql-formatter.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/regex-tester.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/cron-generator.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/git-helper.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/jwt-inspector.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/universal-encoder.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/hash-password-gen.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/uuid-ulid-gen.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/subnet-calculator.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/cors-header-inspector.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/pii-masker.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/rsa-ecc-key-gen.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/markdown-editor.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/diff-checker.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/text-converter.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/image-compressor.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/pdf-merger-splitter.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/audio-trimmer.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/video-gif-converter.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/glassmorphism-studio.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/flexbox-builder.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/contrast-checker.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/brand-palette-extractor.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/css-animator.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/tailwind-converter.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://antigravitytools.app/tools/social-banner-resizer.html</loc><lastmod>2026-08-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <!-- END TOOL PAGES -->
+</urlset>

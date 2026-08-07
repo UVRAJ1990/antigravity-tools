@@ -1,0 +1,34 @@
+# Antigravity Tools - Robots.txt
+# Allows full indexing for Search Engines, Voice Search & AI Engines (GEO / AEO)
+
+User-agent: *
+Allow: /
+
+# OpenAI ChatGPT Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic Claude Crawler
+User-agent: ClaudeBot
+Allow: /
+
+# Perplexity AI Crawler
+User-agent: PerplexityBot
+Allow: /
+
+# Google Gemini & Search Crawlers
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# Microsoft Bing & Copilot Crawler
+User-agent: Bingbot
+Allow: /
+
+# Sitemap Location
+Sitemap: https://antigravitytools.app/sitemap.xml
