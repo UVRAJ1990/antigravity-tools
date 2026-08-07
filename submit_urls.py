@@ -8,16 +8,16 @@ import json, time, base64, urllib.request, urllib.parse, urllib.error, re, os, r
 from datetime import datetime, timezone
 
 # ── Config ────────────────────────────────────────────────────────────────────
-CREDS_FILE   = "sc_credentials.json"
+CREDS_FILE  = "sc_credentials.json"
 SITEMAP_FILE = "sitemap.xml"
-LOG_FILE     = "submission_log.json"
-BATCH_SIZE   = 10
-DELAY_SECS   = 1.0
+LOG_FILE    = "submission_log.json"
+BATCH_SIZE  = 10
+DELAY_SECS  = 1.0
 
-# ── Load credentials (from GitHub Secret or local file) ────────────────────────
+# ── Load credentials (file or GitHub Secret env var) ──────────────────────────
 sc_env = os.environ.get("SC_CREDENTIALS")
-if sc_env and sc_env.strip():
-    creds = json.loads(sc_env.strip())
+if sc_env:
+    creds = json.loads(sc_env)
     print("Credentials loaded from environment variable.")
 else:
     with open(CREDS_FILE) as f:
@@ -107,10 +107,10 @@ print("\nAuthenticating...")
 token = get_token("https://www.googleapis.com/auth/indexing")
 print("Token OK\n")
 
-log            = load_log()
+log          = load_log()
 submitted_urls = set(log["submitted"].keys())
-all_urls       = get_sitemap_urls()
-pending        = [u for u in all_urls if u not in submitted_urls]
+all_urls     = get_sitemap_urls()
+pending      = [u for u in all_urls if u not in submitted_urls]
 
 print(f"Total URLs in sitemap : {len(all_urls)}")
 print(f"Already submitted     : {len(submitted_urls)}")
