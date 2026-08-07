@@ -16,8 +16,8 @@ DELAY_SECS   = 1.0
 
 # ── Load credentials (from GitHub Secret or local file) ────────────────────────
 sc_env = os.environ.get("SC_CREDENTIALS")
-if sc_env:
-    creds = json.loads(sc_env)
+if sc_env and sc_env.strip():
+    creds = json.loads(sc_env.strip())
     print("Credentials loaded from environment variable.")
 else:
     with open(CREDS_FILE) as f:
