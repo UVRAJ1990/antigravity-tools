@@ -79,6 +79,46 @@
     "https://antigravitytools.app/#ai-prompt-trimmer": {
       "submitted_at": "2026-08-07 17:36:03 UTC",
       "last_status": "ok"
+    },
+    "https://antigravitytools.app/#ai-code-scanner": {
+      "submitted_at": "2026-08-08 04:35:15 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#ai-audio-transcribe": {
+      "submitted_at": "2026-08-08 04:35:16 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#ai-bg-remover": {
+      "submitted_at": "2026-08-08 04:35:17 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#site-trust-badge": {
+      "submitted_at": "2026-08-08 04:35:18 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#og-card-previewer": {
+      "submitted_at": "2026-08-08 04:35:19 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#meta-tag-generator": {
+      "submitted_at": "2026-08-08 04:35:20 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#favicon-generator": {
+      "submitted_at": "2026-08-08 04:35:22 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#schema-generator": {
+      "submitted_at": "2026-08-08 04:35:23 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#core-web-vitals": {
+      "submitted_at": "2026-08-08 04:35:24 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#sitemap-generator": {
+      "submitted_at": "2026-08-08 04:35:25 UTC",
+      "last_status": "ok"
     }
   },
   "runs": [
@@ -114,6 +154,23 @@
         "https://antigravitytools.app/#json-schema-gen",
         "https://antigravitytools.app/#ai-text-humanizer",
         "https://antigravitytools.app/#ai-prompt-trimmer"
+      ]
+    },
+    {
+      "run_at": "2026-08-08 04:35:14 UTC",
+      "submitted": 10,
+      "errors": 0,
+      "urls": [
+        "https://antigravitytools.app/#ai-code-scanner",
+        "https://antigravitytools.app/#ai-audio-transcribe",
+        "https://antigravitytools.app/#ai-bg-remover",
+        "https://antigravitytools.app/#site-trust-badge",
+        "https://antigravitytools.app/#og-card-previewer",
+        "https://antigravitytools.app/#meta-tag-generator",
+        "https://antigravitytools.app/#favicon-generator",
+        "https://antigravitytools.app/#schema-generator",
+        "https://antigravitytools.app/#core-web-vitals",
+        "https://antigravitytools.app/#sitemap-generator"
       ]
     }
   ]
