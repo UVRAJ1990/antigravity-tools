@@ -199,6 +199,46 @@
     "https://antigravitytools.app/#text-converter": {
       "submitted_at": "2026-08-10 05:06:04 UTC",
       "last_status": "ok"
+    },
+    "https://antigravitytools.app/#image-compressor": {
+      "submitted_at": "2026-08-11 04:49:29 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#pdf-merger-splitter": {
+      "submitted_at": "2026-08-11 04:49:30 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#audio-trimmer": {
+      "submitted_at": "2026-08-11 04:49:31 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#video-gif-converter": {
+      "submitted_at": "2026-08-11 04:49:33 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#glassmorphism-studio": {
+      "submitted_at": "2026-08-11 04:49:34 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#flexbox-builder": {
+      "submitted_at": "2026-08-11 04:49:35 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#contrast-checker": {
+      "submitted_at": "2026-08-11 04:49:36 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#brand-palette-extractor": {
+      "submitted_at": "2026-08-11 04:49:37 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#css-animator": {
+      "submitted_at": "2026-08-11 04:49:38 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/#tailwind-converter": {
+      "submitted_at": "2026-08-11 04:49:40 UTC",
+      "last_status": "ok"
     }
   },
   "runs": [
@@ -285,6 +325,23 @@
         "https://antigravitytools.app/#markdown-editor",
         "https://antigravitytools.app/#diff-checker",
         "https://antigravitytools.app/#text-converter"
+      ]
+    },
+    {
+      "run_at": "2026-08-11 04:49:29 UTC",
+      "submitted": 10,
+      "errors": 0,
+      "urls": [
+        "https://antigravitytools.app/#image-compressor",
+        "https://antigravitytools.app/#pdf-merger-splitter",
+        "https://antigravitytools.app/#audio-trimmer",
+        "https://antigravitytools.app/#video-gif-converter",
+        "https://antigravitytools.app/#glassmorphism-studio",
+        "https://antigravitytools.app/#flexbox-builder",
+        "https://antigravitytools.app/#contrast-checker",
+        "https://antigravitytools.app/#brand-palette-extractor",
+        "https://antigravitytools.app/#css-animator",
+        "https://antigravitytools.app/#tailwind-converter"
       ]
     }
   ]
