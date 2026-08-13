@@ -279,6 +279,46 @@
     "https://antigravitytools.app/tools/yt-timestamp-generator.html": {
       "submitted_at": "2026-08-12 05:14:30 UTC",
       "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/yt-transcript-extractor.html": {
+      "submitted_at": "2026-08-13 05:17:56 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/yt-tag-extractor.html": {
+      "submitted_at": "2026-08-13 05:17:57 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/yt-banner-safezone.html": {
+      "submitted_at": "2026-08-13 05:17:59 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/yt-embed-generator.html": {
+      "submitted_at": "2026-08-13 05:18:00 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/ai-token-counter.html": {
+      "submitted_at": "2026-08-13 05:18:01 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/ai-prompt-builder.html": {
+      "submitted_at": "2026-08-13 05:18:02 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/json-schema-gen.html": {
+      "submitted_at": "2026-08-13 05:18:03 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/ai-text-humanizer.html": {
+      "submitted_at": "2026-08-13 05:18:05 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/ai-prompt-trimmer.html": {
+      "submitted_at": "2026-08-13 05:18:06 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/ai-code-scanner.html": {
+      "submitted_at": "2026-08-13 05:18:07 UTC",
+      "last_status": "ok"
     }
   },
   "runs": [
@@ -399,6 +439,23 @@
         "https://antigravitytools.app/tools/mobile-qr-suite.html",
         "https://antigravitytools.app/tools/yt-thumbnail-downloader.html",
         "https://antigravitytools.app/tools/yt-timestamp-generator.html"
+      ]
+    },
+    {
+      "run_at": "2026-08-13 05:17:56 UTC",
+      "submitted": 10,
+      "errors": 0,
+      "urls": [
+        "https://antigravitytools.app/tools/yt-transcript-extractor.html",
+        "https://antigravitytools.app/tools/yt-tag-extractor.html",
+        "https://antigravitytools.app/tools/yt-banner-safezone.html",
+        "https://antigravitytools.app/tools/yt-embed-generator.html",
+        "https://antigravitytools.app/tools/ai-token-counter.html",
+        "https://antigravitytools.app/tools/ai-prompt-builder.html",
+        "https://antigravitytools.app/tools/json-schema-gen.html",
+        "https://antigravitytools.app/tools/ai-text-humanizer.html",
+        "https://antigravitytools.app/tools/ai-prompt-trimmer.html",
+        "https://antigravitytools.app/tools/ai-code-scanner.html"
       ]
     }
   ]
