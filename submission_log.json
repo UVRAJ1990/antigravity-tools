@@ -359,6 +359,46 @@
     "https://antigravitytools.app/tools/privacy-policy-gen.html": {
       "submitted_at": "2026-08-14 05:15:10 UTC",
       "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/link-redirect-checker.html": {
+      "submitted_at": "2026-08-15 04:04:09 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/json-workbench.html": {
+      "submitted_at": "2026-08-15 04:04:11 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/curl-converter.html": {
+      "submitted_at": "2026-08-15 04:04:12 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/svg-optimizer.html": {
+      "submitted_at": "2026-08-15 04:04:13 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/sql-formatter.html": {
+      "submitted_at": "2026-08-15 04:04:14 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/regex-tester.html": {
+      "submitted_at": "2026-08-15 04:04:15 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/cron-generator.html": {
+      "submitted_at": "2026-08-15 04:04:17 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/git-helper.html": {
+      "submitted_at": "2026-08-15 04:04:18 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/jwt-inspector.html": {
+      "submitted_at": "2026-08-15 04:04:19 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/universal-encoder.html": {
+      "submitted_at": "2026-08-15 04:04:20 UTC",
+      "last_status": "ok"
     }
   },
   "runs": [
@@ -513,6 +553,23 @@
         "https://antigravitytools.app/tools/core-web-vitals.html",
         "https://antigravitytools.app/tools/sitemap-generator.html",
         "https://antigravitytools.app/tools/privacy-policy-gen.html"
+      ]
+    },
+    {
+      "run_at": "2026-08-15 04:04:09 UTC",
+      "submitted": 10,
+      "errors": 0,
+      "urls": [
+        "https://antigravitytools.app/tools/link-redirect-checker.html",
+        "https://antigravitytools.app/tools/json-workbench.html",
+        "https://antigravitytools.app/tools/curl-converter.html",
+        "https://antigravitytools.app/tools/svg-optimizer.html",
+        "https://antigravitytools.app/tools/sql-formatter.html",
+        "https://antigravitytools.app/tools/regex-tester.html",
+        "https://antigravitytools.app/tools/cron-generator.html",
+        "https://antigravitytools.app/tools/git-helper.html",
+        "https://antigravitytools.app/tools/jwt-inspector.html",
+        "https://antigravitytools.app/tools/universal-encoder.html"
       ]
     }
   ]
