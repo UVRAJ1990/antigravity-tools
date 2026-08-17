@@ -439,6 +439,46 @@
     "https://antigravitytools.app/tools/image-compressor.html": {
       "submitted_at": "2026-08-16 04:08:34 UTC",
       "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/pdf-merger-splitter.html": {
+      "submitted_at": "2026-08-17 04:12:09 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/audio-trimmer.html": {
+      "submitted_at": "2026-08-17 04:12:10 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/video-gif-converter.html": {
+      "submitted_at": "2026-08-17 04:12:11 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/glassmorphism-studio.html": {
+      "submitted_at": "2026-08-17 04:12:12 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/flexbox-builder.html": {
+      "submitted_at": "2026-08-17 04:12:14 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/contrast-checker.html": {
+      "submitted_at": "2026-08-17 04:12:15 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/brand-palette-extractor.html": {
+      "submitted_at": "2026-08-17 04:12:16 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/css-animator.html": {
+      "submitted_at": "2026-08-17 04:12:17 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/tailwind-converter.html": {
+      "submitted_at": "2026-08-17 04:12:18 UTC",
+      "last_status": "ok"
+    },
+    "https://antigravitytools.app/tools/social-banner-resizer.html": {
+      "submitted_at": "2026-08-17 04:12:20 UTC",
+      "last_status": "ok"
     }
   },
   "runs": [
@@ -627,6 +667,23 @@
         "https://antigravitytools.app/tools/diff-checker.html",
         "https://antigravitytools.app/tools/text-converter.html",
         "https://antigravitytools.app/tools/image-compressor.html"
+      ]
+    },
+    {
+      "run_at": "2026-08-17 04:12:08 UTC",
+      "submitted": 10,
+      "errors": 0,
+      "urls": [
+        "https://antigravitytools.app/tools/pdf-merger-splitter.html",
+        "https://antigravitytools.app/tools/audio-trimmer.html",
+        "https://antigravitytools.app/tools/video-gif-converter.html",
+        "https://antigravitytools.app/tools/glassmorphism-studio.html",
+        "https://antigravitytools.app/tools/flexbox-builder.html",
+        "https://antigravitytools.app/tools/contrast-checker.html",
+        "https://antigravitytools.app/tools/brand-palette-extractor.html",
+        "https://antigravitytools.app/tools/css-animator.html",
+        "https://antigravitytools.app/tools/tailwind-converter.html",
+        "https://antigravitytools.app/tools/social-banner-resizer.html"
       ]
     }
   ]
