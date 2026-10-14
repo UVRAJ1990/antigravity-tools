@@ -361,43 +361,43 @@
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/link-redirect-checker.html": {
-      "submitted_at": "2026-10-02 09:58:45 UTC",
+      "submitted_at": "2026-10-14 08:56:55 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/json-workbench.html": {
-      "submitted_at": "2026-10-02 09:58:47 UTC",
+      "submitted_at": "2026-10-14 08:56:57 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/curl-converter.html": {
-      "submitted_at": "2026-10-02 09:58:48 UTC",
+      "submitted_at": "2026-10-14 08:56:58 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/svg-optimizer.html": {
-      "submitted_at": "2026-10-02 09:58:49 UTC",
+      "submitted_at": "2026-10-14 08:56:59 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/sql-formatter.html": {
-      "submitted_at": "2026-10-02 09:58:50 UTC",
+      "submitted_at": "2026-10-14 08:57:01 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/regex-tester.html": {
-      "submitted_at": "2026-10-02 09:58:51 UTC",
+      "submitted_at": "2026-10-14 08:57:02 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/cron-generator.html": {
-      "submitted_at": "2026-10-02 09:58:52 UTC",
+      "submitted_at": "2026-10-14 08:57:03 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/git-helper.html": {
-      "submitted_at": "2026-10-02 09:58:54 UTC",
+      "submitted_at": "2026-10-14 08:57:04 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/jwt-inspector.html": {
-      "submitted_at": "2026-10-02 09:58:55 UTC",
+      "submitted_at": "2026-10-14 08:57:06 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/universal-encoder.html": {
-      "submitted_at": "2026-10-02 09:58:56 UTC",
+      "submitted_at": "2026-10-14 08:57:07 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/hash-password-gen.html": {
@@ -1653,6 +1653,23 @@
         "https://antigravitytools.app/tools/core-web-vitals.html",
         "https://antigravitytools.app/tools/sitemap-generator.html",
         "https://antigravitytools.app/tools/privacy-policy-gen.html"
+      ]
+    },
+    {
+      "run_at": "2026-10-14 08:56:55 UTC",
+      "submitted": 10,
+      "errors": 0,
+      "urls": [
+        "https://antigravitytools.app/tools/link-redirect-checker.html",
+        "https://antigravitytools.app/tools/json-workbench.html",
+        "https://antigravitytools.app/tools/curl-converter.html",
+        "https://antigravitytools.app/tools/svg-optimizer.html",
+        "https://antigravitytools.app/tools/sql-formatter.html",
+        "https://antigravitytools.app/tools/regex-tester.html",
+        "https://antigravitytools.app/tools/cron-generator.html",
+        "https://antigravitytools.app/tools/git-helper.html",
+        "https://antigravitytools.app/tools/jwt-inspector.html",
+        "https://antigravitytools.app/tools/universal-encoder.html"
       ]
     }
   ]
