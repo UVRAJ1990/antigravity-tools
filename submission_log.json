@@ -321,43 +321,43 @@
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/ai-audio-transcribe.html": {
-      "submitted_at": "2026-10-25 08:38:42 UTC",
+      "submitted_at": "2026-11-06 11:20:23 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/ai-bg-remover.html": {
-      "submitted_at": "2026-10-25 08:38:43 UTC",
+      "submitted_at": "2026-11-06 11:20:24 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/site-trust-badge.html": {
-      "submitted_at": "2026-10-25 08:38:44 UTC",
+      "submitted_at": "2026-11-06 11:20:26 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/og-card-previewer.html": {
-      "submitted_at": "2026-10-25 08:38:45 UTC",
+      "submitted_at": "2026-11-06 11:20:27 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/meta-tag-generator.html": {
-      "submitted_at": "2026-10-25 08:38:46 UTC",
+      "submitted_at": "2026-11-06 11:20:28 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/favicon-generator.html": {
-      "submitted_at": "2026-10-25 08:38:48 UTC",
+      "submitted_at": "2026-11-06 11:20:29 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/schema-generator.html": {
-      "submitted_at": "2026-10-25 08:38:49 UTC",
+      "submitted_at": "2026-11-06 11:20:30 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/core-web-vitals.html": {
-      "submitted_at": "2026-10-25 08:38:50 UTC",
+      "submitted_at": "2026-11-06 11:20:31 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/sitemap-generator.html": {
-      "submitted_at": "2026-10-25 08:38:51 UTC",
+      "submitted_at": "2026-11-06 11:20:32 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/privacy-policy-gen.html": {
-      "submitted_at": "2026-10-25 08:38:52 UTC",
+      "submitted_at": "2026-11-06 11:20:34 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/tools/link-redirect-checker.html": {
@@ -2044,6 +2044,23 @@
         "https://antigravitytools.app/tools/ai-text-humanizer.html",
         "https://antigravitytools.app/tools/ai-prompt-trimmer.html",
         "https://antigravitytools.app/tools/ai-code-scanner.html"
+      ]
+    },
+    {
+      "run_at": "2026-11-06 11:20:23 UTC",
+      "submitted": 10,
+      "errors": 0,
+      "urls": [
+        "https://antigravitytools.app/tools/ai-audio-transcribe.html",
+        "https://antigravitytools.app/tools/ai-bg-remover.html",
+        "https://antigravitytools.app/tools/site-trust-badge.html",
+        "https://antigravitytools.app/tools/og-card-previewer.html",
+        "https://antigravitytools.app/tools/meta-tag-generator.html",
+        "https://antigravitytools.app/tools/favicon-generator.html",
+        "https://antigravitytools.app/tools/schema-generator.html",
+        "https://antigravitytools.app/tools/core-web-vitals.html",
+        "https://antigravitytools.app/tools/sitemap-generator.html",
+        "https://antigravitytools.app/tools/privacy-policy-gen.html"
       ]
     }
   ]
