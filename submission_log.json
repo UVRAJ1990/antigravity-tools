@@ -121,43 +121,43 @@
       "last_status": "ok"
     },
     "https://antigravitytools.app/#privacy-policy-gen": {
-      "submitted_at": "2026-11-13 11:23:42 UTC",
+      "submitted_at": "2026-11-25 13:20:06 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/#link-redirect-checker": {
-      "submitted_at": "2026-11-13 11:23:43 UTC",
+      "submitted_at": "2026-11-25 13:20:07 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/#json-workbench": {
-      "submitted_at": "2026-11-13 11:23:44 UTC",
+      "submitted_at": "2026-11-25 13:20:08 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/#curl-converter": {
-      "submitted_at": "2026-11-13 11:23:45 UTC",
+      "submitted_at": "2026-11-25 13:20:09 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/#svg-optimizer": {
-      "submitted_at": "2026-11-13 11:23:46 UTC",
+      "submitted_at": "2026-11-25 13:20:10 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/#sql-formatter": {
-      "submitted_at": "2026-11-13 11:23:47 UTC",
+      "submitted_at": "2026-11-25 13:20:11 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/#regex-tester": {
-      "submitted_at": "2026-11-13 11:23:49 UTC",
+      "submitted_at": "2026-11-25 13:20:12 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/#cron-generator": {
-      "submitted_at": "2026-11-13 11:23:50 UTC",
+      "submitted_at": "2026-11-25 13:20:13 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/#git-helper": {
-      "submitted_at": "2026-11-13 11:23:51 UTC",
+      "submitted_at": "2026-11-25 13:20:15 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/#jwt-inspector": {
-      "submitted_at": "2026-11-13 11:23:52 UTC",
+      "submitted_at": "2026-11-25 13:20:16 UTC",
       "last_status": "ok"
     },
     "https://antigravitytools.app/#universal-encoder": {
@@ -2367,6 +2367,23 @@
         "https://antigravitytools.app/#schema-generator",
         "https://antigravitytools.app/#core-web-vitals",
         "https://antigravitytools.app/#sitemap-generator"
+      ]
+    },
+    {
+      "run_at": "2026-11-25 13:20:06 UTC",
+      "submitted": 10,
+      "errors": 0,
+      "urls": [
+        "https://antigravitytools.app/#privacy-policy-gen",
+        "https://antigravitytools.app/#link-redirect-checker",
+        "https://antigravitytools.app/#json-workbench",
+        "https://antigravitytools.app/#curl-converter",
+        "https://antigravitytools.app/#svg-optimizer",
+        "https://antigravitytools.app/#sql-formatter",
+        "https://antigravitytools.app/#regex-tester",
+        "https://antigravitytools.app/#cron-generator",
+        "https://antigravitytools.app/#git-helper",
+        "https://antigravitytools.app/#jwt-inspector"
       ]
     }
   ]
